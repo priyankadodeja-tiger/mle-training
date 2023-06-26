@@ -1,6 +1,3 @@
-# Python 3.x code to demonstrate star pattern
-
-
 # Function to demonstrate printing pattern
 def pypart(n):
     for i in range(0, n):
@@ -11,5 +8,6 @@ def pypart(n):
 
 
 # Driver Code
-n = 5
+n = 7
 pypart(n)
+pypart(4)
